@@ -30,9 +30,13 @@ Artbreeder is a groundbreaking platform that allows users to create and customiz
 ### Image Generation
 Artbreeder allows users to generate images using AI. You can create portraits, landscapes, and abstract art by adjusting sliders that control various attributes such as style, color, and features.
 
-**Example:** Create a portrait by selecting a base image and tweaking its attributes, like hair color, facial structure, or background.
+**Example 1:** chess game played between animals.
+![Chess game played between animals.](https://github.com/user-attachments/assets/89ca357e-0f0f-45a6-9a0f-62980d73bb90)
 
-![Image Description](example-portrait.png)
+**Example 2:** Create a portrait by selecting a base image and tweaking its attributes, like hair color, facial structure, or background.
+
+![Create a portrait by selecting a base image and tweaking its attributes, like hair color, facial structure, or background.](https://github.com/user-attachments/assets/27de77e1-fc63-4337-806c-38cfac898725)
+
 
 ---
 

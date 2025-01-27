@@ -45,7 +45,10 @@ Blending allows you to combine two or more images to create something unique. By
 
 **Example:** Blend a landscape with a surreal abstract style to produce a fantasy-themed background.
 
-![Image Description](blend-example.png)
+![Blend a landscape with a surreal abstract style to produce a fantasy-themed background.](https://github.com/user-attachments/assets/e21be40b-d069-4d10-a62c-6379293e9bcc)
+
+**Example 2:**
+![Two images blending](https://github.com/user-attachments/assets/5333ab84-68f5-426c-9bb0-a234084bfdfe)
 
 ---
 

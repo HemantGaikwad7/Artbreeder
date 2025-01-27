@@ -50,7 +50,11 @@ Blending allows you to combine two or more images to create something unique. By
 **Example 2:**
 ![Two images blending](https://github.com/user-attachments/assets/5333ab84-68f5-426c-9bb0-a234084bfdfe)
 
+**Downloaded Image**
 ![Actual result from Artbreeder](artbreeder-imageBlending.jpeg)
+
+**Change slider**
+![image](https://github.com/user-attachments/assets/22a08bcc-7de6-4313-889b-23c1e0481eef)
 
 ---
 
@@ -58,6 +62,7 @@ Blending allows you to combine two or more images to create something unique. By
 Artbreeder emphasizes community interaction. Users can share their creations, remix each other's work, and collaborate to refine or expand on existing designs.
 
 **Example:** Explore the public gallery to find inspiration or collaborate with others to create a cohesive set of characters.
+![Explore Gallery](https://github.com/user-attachments/assets/9bb1ffe6-1ee4-4042-b8c5-5e9005bf9209)
 
 ---
 
@@ -65,6 +70,7 @@ Artbreeder emphasizes community interaction. Users can share their creations, re
 Artbreeder offers flexible download options, allowing you to export images in various resolutions. High-quality downloads are available for premium users.
 
 **Example:** Download a portrait as a PNG file and use it in your project.
+![Download Image](https://github.com/user-attachments/assets/b528ae68-1c49-4148-88d3-d73a37f013cf)
 
 ---
 
@@ -86,6 +92,7 @@ Artbreeder offers flexible download options, allowing you to export images in va
 Artbreeder is ideal for designing characters for games, stories, or animations. You can create realistic or stylized portraits tailored to your project’s needs.
 
 **Example:** Generate a hero’s portrait for your fantasy novel.
+![Hero](https://github.com/user-attachments/assets/d0789361-f2b3-4c12-81e6-8c3df57308a8)
 
 ---
 
@@ -93,6 +100,7 @@ Artbreeder is ideal for designing characters for games, stories, or animations. 
 Artists and designers can use Artbreeder to visualize concepts for projects like architectural designs or fantasy landscapes.
 
 **Example:** Create a futuristic cityscape for a science fiction project.
+![Futuristic cityscape](https://github.com/user-attachments/assets/57af1782-6c1b-4d31-9e62-1772b32c1b0a)
 
 ---
 
@@ -100,6 +108,10 @@ Artists and designers can use Artbreeder to visualize concepts for projects like
 Artbreeder’s collaborative tools make it easy to work with other artists, enabling shared creativity and exploration.
 
 **Example:** Partner with a fellow artist to develop a cohesive set of character designs for a game.
+![Step 1 Other user's work](https://github.com/user-attachments/assets/28b92df0-7ac5-4b4e-92a6-2f6d7836482e)
+
+![Step 2 make changes](https://github.com/user-attachments/assets/6bd71968-4bb6-4cad-b4ea-939e5493d402)
+
 
 ---
 

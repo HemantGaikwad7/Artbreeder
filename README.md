@@ -50,6 +50,8 @@ Blending allows you to combine two or more images to create something unique. By
 **Example 2:**
 ![Two images blending](https://github.com/user-attachments/assets/5333ab84-68f5-426c-9bb0-a234084bfdfe)
 
+![Actual result from Artbreeder](artbreeder-imageBlending.jpeg)
+
 ---
 
 ### Community Collaboration
